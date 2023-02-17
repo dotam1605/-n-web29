@@ -6,10 +6,12 @@
 
 *{
   font-family: 'Nunito', sans-serif;
-  margin:0; padding:0;
+  margin:0; 
+  padding:0;
   box-sizing: border-box;
   text-transform: capitalize;
-  outline: none; border:none;
+  outline: none; 
+  border:none;
   text-decoration: none;
   transition: all .2s linear;
 }
@@ -108,7 +110,9 @@ header .icons i:hover{
 
 header .search-bar-container{
   position: absolute;
-  top:100%; left: 0; right:0;
+  top:100%; 
+  left: 0; 
+  right:0;
   padding:1.5rem 2rem;
   background:#747d8c;
   border-top: .1rem solid rgba(255,255,255,.2);
@@ -218,7 +222,8 @@ header .search-bar-container label:hover{
 
 .login-form-container #form-close{
   position: absolute;
-  top:2rem; right:3rem;
+  top:2rem; 
+  right:3rem;
   font-size: 5rem;
   color:#fff;
   cursor: pointer;
@@ -452,7 +457,8 @@ header .search-bar-container label:hover{
 
 .gallery .box-container .box .content{
   position: absolute;
-  top:-100%; left:0;
+  top:-100%; 
+  left:0;
   height: 100%;
   width:100%;
   text-align: center;
@@ -641,7 +647,9 @@ header .search-bar-container label:hover{
 
   header .navbar{
     position: absolute;
-    top:100%; right:0; left: 0;
+    top:100%; 
+    right:0; 
+    left: 0;
     background: #747d8c;
     border-top: .1rem solid rgba(255,255,255,.2);
     padding:1rem 2rem;
